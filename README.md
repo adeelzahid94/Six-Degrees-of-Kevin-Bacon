@@ -14,4 +14,4 @@ We parse this file to create a graph of all of the movies and performers. We rep
 
 After building the graph, we use breadth-first search to determine the shortest path between two performers.
 
-Language: All code is in Python. I used Jupyter Notebook as development environment
+**Language:** All code is in Python. I used Jupyter Notebook as development environment
